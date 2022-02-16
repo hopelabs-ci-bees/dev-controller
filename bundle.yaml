@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "hopelabs-ci-bees-dev-controller"
+description: "CloudBees CI configuration bundle for the hopelabs-ci-bees dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/hopelabs-ci-bees/dev-controller"
+parent: "base"
